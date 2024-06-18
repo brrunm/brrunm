@@ -1,4 +1,4 @@
-# 🦇 about me:
+## 🦇 about me:
 i'm bruno, front end developer since 2018, currently working @ Conquer Business School (Brazil) as a next.js developer<br>contact: brrunm@gmail.com
 
 
