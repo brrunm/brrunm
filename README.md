@@ -1,6 +1,6 @@
 ## about me 🦇
 
-I'm bruno, a developer with **7+ years of experience** building high-traffic web applications and scalable interfaces.
+developer with **7+ years of experience** building high-traffic web applications and scalable interfaces.
 
 I work as a frontend-leaning full-stack developer, with strong experience in **React and Next.js**, and solid backend foundations to deliver end-to-end products.
 
